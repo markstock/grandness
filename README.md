@@ -13,7 +13,7 @@ Use `-d` to set the DEM (digital elevation model) and `-v` to set the slopes - t
 ## Background
 Since the beginning of measurements humans have measured mountains, but typically only by the elevation of their summits, and then typically only as a distance above mean sea level. Eventually we began using a measurement called "prominence", which is the elevation of a summit above the highest col (saddle) between it and the next higher summit. Read more about this measurement and it's drawbacks [on wikipedia](https://en.wikipedia.org/wiki/Topographic_prominence).
 
-As a subjective measure of the greatness of a mountain, both of these common measurements are intrinsically flawed, in that they deal only with the summit elevation itself, and not of the qualities that makes a mountain "grand" (for lack of a better term). This code seeks to explore and possible establish a new quantitative measurement that more closely tracks with people's perceptions of what makes a mountain important.
+As subjective measures of the greatness of a mountain, both of these common measurements are intrinsically flawed, in that they deal only with the summit elevation itself, and not of the qualities that makes a mountain "grand" (for lack of a better term). This code seeks to explore and possibly establish a new quantitative measurement that more closely tracks with people's perceptions of what makes a mountain great and worth visiting or climbing.
 
 ## To Do
 * Add options for meters per pixel, meters black-to-white
@@ -26,3 +26,4 @@ As a subjective measure of the greatness of a mountain, both of these common mea
 
 ## Credits
 This code was written by Mark Stock <markjstock@gmail.com> in 2023. [CLI11](https://github.com/CLIUtils/CLI11) is by Henry Schreiner.
+
